@@ -46,3 +46,7 @@ Introduce una función como `x^3 + 4x^2 - 10`, establece los valores de `a = 1`,
 - **Chart.js**: Para las visualizaciones gráficas interactivas.
 - **Math.js**: Para funciones matemáticas avanzadas.
 - **function-plot.js**: Para graficar funciones matemáticas.
+
+## Demo Proyecto GIF
+
+![Demo del Proyecto](public/gifProyectoMetodosNum.gif)
